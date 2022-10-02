@@ -1,0 +1,100 @@
+-
+  date: '2022-09-10'
+  festival: '中秋节'
+  holiday: 3
+-
+  date: '2022-10-01'
+  festival: '国庆节'
+  holiday: 7
+-
+  date: '2022-10-04'
+  festival: '重阳节'
+-
+  date: '2022-10-08'
+  festival: '寒露'
+-
+  date: '2022-10-23'
+  festival: '霜降'
+-
+  date: '2022-10-31'
+  festival: '万圣节'
+-
+  date: '2022-11-07'
+  festival: '立冬'
+-
+  date: '2022-11-22'
+  festival: '小雪'
+-
+  date: '2022-11-24'
+  festival: '感恩节'
+-
+  date: '2022-12-07'
+  festival: '大雪'
+-
+  date: '2022-12-13'
+  festival: '国家公祭日'
+-
+  date: '2022-12-22'
+  festival: '冬至/一九'
+-
+  date: '2022-12-24'
+  festival: '平安夜'
+-
+  date: '2022-12-25'
+  festival: '圣诞节'
+-
+  date: '2022-12-30'
+  festival: '腊八节'
+-
+  date: '2022-12-31'
+  festival: '二九/元旦'
+  holiday: 3
+-
+  date: '2023-01-21'
+  festival: '春节'
+  holiday: 7
+-
+  date: '2023-04-05'
+  festival: '清明节'
+  holiday: 1
+-
+  date: '2023-05-01'
+  festival: '劳动节'
+  holiday: 5
+-
+  date: '2023-06-22'
+  festival: '端午节'
+  holiday: 3
+-
+  date: '2023-09-26'
+  festival: '中秋节&国庆节'
+  holiday: 8
+-
+  date: '2024-12-30'
+  festival: '元旦'
+  holiday: 3
+-
+  date: '2024-02-10'
+  festival: '春节'
+  holiday: 7
+-
+  date: '2024-04-04'
+  festival: '清明节'
+  holiday: 3
+-
+  date: '2024-04-29'
+  festival: '劳动节'
+  holiday: 3
+-
+  date: '2024-06-08'
+  festival: '端午节'
+  holiday: 3
+-
+  date: '2024-09-15'
+  festival: '中秋节'
+  holiday: 3
+-
+  date: '2024-09-29'
+  festival: '国庆节'
+  holiday: 7
+
