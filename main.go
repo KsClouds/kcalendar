@@ -16,9 +16,9 @@ import (
 var festivalContent string
 
 type Festival struct {
-	Date     string
-	Festival string
-	Holiday  int
+	Date     string `json:"date"`
+	Festival string `json:"festival"`
+	Holiday  int    `json:"holiday"`
 }
 
 var holidays []Festival

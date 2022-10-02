@@ -3,7 +3,7 @@ package model
 type Response struct {
 	Code int         `json:"code"`
 	Data interface{} `json:"data"`
-	Msg  string      `msg:"msg"`
+	Msg  string      `json:"msg"`
 }
 
 func Err(msg string) Response {
